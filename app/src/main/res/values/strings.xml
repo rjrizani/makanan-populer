@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Aplikasi makanan populer</string>
+
+    <string name="heroes_name">Aplikasi makanan populer</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">list\n</string>
+    <string name="grid">grid\n</string>
+    <string name="home">Home</string>
+    <string name="hero">hero</string>
+    <string-array name="data_name">
+        <item>Mie Goreng</item>
+        <item>Sate Ayam</item>
+        <item>Rendang</item>
+        <item>Gado-gado</item>
+        <item>Bakso</item>
+        <item>Nasi Padang</item>
+        <item>Nasi Goreng</item>
+        <item>Ayam Penyet</item>
+        <item>Martabak</item>
+        <item>Pizza</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>mie goreng adalah mie yang digoreng dengan bumbu khas Indonesia, kecap manis, bawang, dan berbagai sayuran atau daging (ayam, udang, atau bakso). Biasanya disajikan dengan telur mata sapi di atasnya</item>
+        <item>Sate ayam adalah makanan khas Indonesia. Sate ayam dibuat dari daging ayam. </item>
+        <item>Rendang (bahasa Minangkabau: randang; Jawi: رندڠ) adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan.</item>
+        <item>Gado-gado adalah makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dan lain-lain diberi bumbu sambal kacang dan sebagainya.</item>
+        <item>Bakso (Hokkien: 肉酥; dialek Xiamen: bah so; Jawi: باقسو; bentuk tidak baku: baso)[a] adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.</item>
+        <item>Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. </item>
+        <item>Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis.</item>
+        <item>Ayam penyet (pênyét) adalah hidangan Ayam goreng Indonesia, khususnya Jawa, yang terdiri dari ayam goreng yang diulek memakai ulekan untuk melembutkannya, serta disajikan dengan sambal, potongan-potongan timun, tahu goreng dan tempe.</item>
+        <item>Martabak (bahasa Arab: مطبق, berarti "terlipat") merupakan sajian yang biasa ditemukan di Arab Saudi (terutama di wilayah Hijaz), Yaman, India, Bangladesh, Indonesia, Malaysia, Singapura, Thailand Selatan dan Brunei. Bergantung pada lokasinya, nama, dan komposisi martabak dapat bervariasi.
+        </item>
+        <item>Piza napoletana (bahasa Napolitan: pizza napulitana, bahasa Italia: pizza napoletana) juga dikenal sebagai piza gaya Napoli, adalah gaya varian piza yang dibuat dengan tomat dan keju mozzarella.</item>
+    </string-array>
+
+    <string-array name="more_info">
+        <item>Mie Goreng, atau mie goreng, memiliki sejarah yang mirip dengan nasi goreng. Makanan ini diadaptasi dari masakan Tionghoa, yang memperkenalkan konsep memasak mie dengan cara digoreng. Mie goreng dikenal sejak abad ke-19, ketika imigran Tionghoa pertama kali membawa mie dan teknik memasaknya ke Indonesia. Seiring waktu, mie goreng Indonesia berkembang dengan penambahan kecap manis, sambal, serta bahan-bahan lokal seperti ayam, udang, dan sayuran. Mie goreng Indonesia kini menjadi hidangan yang sangat populer, baik di rumah makan maupun di
+        </item>
+        <item>Sate berasal dari Timur Tengah dan India, dibawa ke Indonesia oleh pedagang Arab dan India pada abad ke-15. Konsep "menusuk daging" untuk memanggangnya di atas api terbuka sudah ada sejak zaman kuno di banyak budaya, namun sate Indonesia berkembang menjadi hidangan yang lebih bervariasi dengan berbagai jenis daging seperti ayam, kambing, sapi, dan bahkan ikan. Sate ayam khususnya populer di pulau Jawa dan Madura, dengan Madura dikenal sebagai pusat sate di Indonesia. Sate Madura, yang terkenal dengan saus kacang yang khas, menjadi salah satu variasi yang paling terkenal.
+        </item>
+        <item>Rendang berasal dari suku Minangkabau di Sumatra Barat. Hidangan ini diciptakan sebagai cara untuk mengawetkan daging dalam iklim tropis yang panas dan lembab. Pada awalnya, rendang adalah hidangan yang dimasak untuk acara besar atau perayaan. Daging sapi dimasak perlahan dalam santan kelapa dan rempah-rempah untuk menghasilkan daging yang empuk dan kaya rasa. Dalam tradisi Minangkabau, rendang disajikan dalam berbagai upacara, termasuk pernikahan dan acara adat. Seiring waktu, rendang menjadi hidangan nasional yang sangat terkenal dan bahkan diakui sebagai salah satu makanan terenak di dunia oleh beberapa survei internasional.
+        </item>
+        <item>Gado-gado adalah salah satu salad tradisional Indonesia yang berasal dari Betawi (Jakarta). Nama "Gado-Gado" berarti "campuran" atau "kacau" dalam bahasa Indonesia, yang mencerminkan cara bahan-bahan yang berbeda dicampur bersama. Salad ini mulai dikenal pada abad ke-18 dan dipengaruhi oleh pengaruh kuliner dari berbagai daerah, termasuk kuliner Tionghoa dan Belanda. Gado-gado sering dikonsumsi sebagai hidangan utama, terutama bagi orang yang menjalani pola makan vegetarian. Saus kacangnya yang kaya rasa berasal dari campuran kacang tanah dan rempah-rempah, yang memberikan rasa gurih dan manis.
+        </item>
+        <item>Bakso memiliki akar yang dalam dalam kuliner Tionghoa, terutama yang dibawa oleh imigran Tionghoa ke Indonesia pada abad ke-19.Awalnya, bakso adalah hidangan dari daging sapi cincang yang digiling halus dan dicampur dengan tepung tapioka, kemudian dibentuk menjadi bola-bola kecil dan dimasak dalam kuah kaldu. Bakso berkembang di Indonesia dan menjadi sangat populer di kalangan masyarakat dari semua lapisan sosial. Meskipun asalnya dari China, bakso telah disesuaikan dengan cita rasa lokal Indonesia, dengan berbagai variasi kuah dan pelengkap.
+        </item>
+        <item>Tradisi makan Nasi Padang dimulai dengan cara menyajikan berbagai lauk pauk dalam porsi kecil di atas meja, yang memudahkan orang untuk memilih berbagai hidangan yang mereka sukai. Hidangan-hidangan ini umumnya berbasis rempah-rempah yang kuat dan pedas, dan berkembang menjadi sangat populer di seluruh Indonesia. Di luar negeri, restoran Padang sering kali menawarkan cara penyajian dengan model prasmanan atau "hidang," di mana pelanggan dapat memilih lauk yang ingin mereka nikmati bersama nasi.
+        </item>
+        <item>Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu. Sebagai hidangan buatan rumah, nasi goreng biasanya dibuat dengan bahan-bahan yang tersisa dari hidangan lainnya, yang berujung pada ragam yang tak terbatas. Menjadi penopang ekonomi, hal yang sama juga terjadi pada mi goreng atau pyttipanna.</item>
+        <item>Nama "penyet" merujuk pada cara penyajiannya, di mana ayam ditekan dengan alu untuk membuat dagingnya lebih empuk. Biasanya disajikan dengan sambal tambahan di sampingnya, serta ditemani lalapan, tempe, tahu, dan nasi. Ayam Penyet telah memenangkan hati para penggemar kuliner tidak hanya di Indonesia, tetapi juga di Singapura.</item>
+        <item>Di Indonesia, ada dua jenis martabak, yaitu martabak asin/telur yang terbuat dari campuran telur dan daging, serta martabak manis, yang biasanya diisi coklat dan keju. Berbeda dengan martabak telur, martabak manis adalah sejenis kue atau roti isi selai yang biasa dimakan di saat santai sebagai makanan ringan. Di Malaysia, martabak manis (yang dikenal dengan nama Apam Balik) sering dijadikan sebagai hidangan sarapan dengan ditemani segelas teh tarik. </item>
+        <item>Piza ini mesti disajikan dengan tomat san marzano atau Pomodorino del Piennolo del Vesuvio,yang tumbuh di dataran vulkanik di selatan Gunung Vesuvius, dan Mozzarella di Bufala Campana, sebutan Perlindungan Status Geografis keju asli yang dibuat dengan susu dari kerbau yang dibesarkan di rawa Campania dan Lazio dalam keadaan semi-liar, atau “Fior di Latte di Agerola”, mozzarella susu sapi yang dibuat secara eksklusif di komune Agerola.[1] Piza napoletana merupakan produk Spesialisasi Tradisional Dijamin di Eropa, dan seni pembuatannya termasuk dalam daftar Warisan budaya takbenda UNESCO.[2] Piza gaya ini memunculkan piza bergaya New York yang pertama kali dibuat oleh imigran Italia ke Amerika Serikat pada awal abad ke-20.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://aslimasako.com/storage/post/new-title-29022024-100423.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sate_ayam-1.JPG/220px-Sate_ayam-1.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rendang.JPG/640px-Rendang.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gado_gado.jpg/1200px-Gado_gado.jpg</item>
+        <item>https://asset.kompas.com/crops/cB-7HVfVN0Ci4yQKdoswSrFSJeU=/0x0:698x465/1200x800/data/photo/2021/01/08/5ff86f55cf2e4.jpg</item>
+        <item>https://assets.grab.com/wp-content/uploads/sites/9/2019/12/19112921/ID-nasi-padang-pedas1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chaufa_salvaje_Selva_17042010.JPG/330px-Chaufa_salvaje_Selva_17042010.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ayam_penyet.JPG/1200px-Ayam_penyet.JPG</item>
+        <item>https://img-global.cpcdn.com/recipes/e95d63693bb2bbff/680x964cq70/resep-martabak-manis-foto-resep-utama.webp</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/300px-Eq_it-na_pizza-margherita_sep2005_sml.jpg</item>
+    </string-array>
+</resources>
